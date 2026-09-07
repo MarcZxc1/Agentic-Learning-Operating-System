@@ -1,0 +1,24 @@
+# Obsidian workspace & caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Environment and Secrets
+.env
+.env.local
+*.local
+
+# Scratch and Temporary files
+scratch/
+tmp/
+*.tmp
